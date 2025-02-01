@@ -46,6 +46,9 @@ BeyondChats is a modern, user-friendly platform that enables businesses to integ
   - Confetti animations
   - Social sharing integration
 
+## 🚀 Live Demo  
+🔗 **Live URL:** [AI Chatbot](https://ai01chatbot.netlify.app/)
+
 ## Getting Started
 
 1. **Installation**
