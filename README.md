@@ -4,6 +4,9 @@ BeyondChats is a modern, user-friendly platform that enables businesses to integ
 
 ![BeyondChats Screenshot](https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&q=80&w=1600)
 
+## 🚀 Live Demo  
+🔗 **Live URL:** [AI Chatbot live ](https://ai01chatbot.netlify.app/)
+
 ## Features
 
 - **Quick Setup Process**
@@ -45,9 +48,6 @@ BeyondChats is a modern, user-friendly platform that enables businesses to integ
   - Mobile-responsive design
   - Confetti animations
   - Social sharing integration
-
-## 🚀 Live Demo  
-🔗 **Live URL:** [AI Chatbot](https://ai01chatbot.netlify.app/)
 
 ## Getting Started
 
